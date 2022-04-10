@@ -1,0 +1,30 @@
+{
+  "name": "is-it-email",
+  "version": "1.0.0",
+  "description": "strict email validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMSHL/is-it-email.git"
+  },
+  "keywords": [
+    "RFC-5322",
+    "EMAIL",
+    "VALIDATOR"
+  ],
+  "author": "Anatoly Shlom <a.m.shlom@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AMSHL/is-it-email/issues"
+  },
+  "homepage": "https://github.com/AMSHL/is-it-email#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.16.11"
+  }
+}
